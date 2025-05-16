@@ -1,4 +1,5 @@
-# Daily Algorithm Challenges 🧑‍💻🔥🔥
+# Daily Algorithm Challenges 🧑‍💻🔥🔥🔥
+
 
 This repository contains a collection of daily algorithm challenges in Python. Each challenge includes:
 - A problem statement
